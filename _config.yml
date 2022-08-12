@@ -16,23 +16,23 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Cyberhawk0302                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Cybersecurity Repository  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Cybersecurity Information Repository
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://cyberhawk0302.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: cyberhawk0302            # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/44514425?s=400&u=a0de87dda42aeea93d5ea3f6ba004db814387ac5&v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
